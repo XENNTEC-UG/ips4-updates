@@ -1,7 +1,7 @@
 {
-    "version": "2.6.1",
-    "longversion": 20601,
-    "released": 1771943686,
+    "version": "2.7.0",
+    "longversion": 20700,
+    "released": 1771945377,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xunicoreconnector/releases",
     "releasenotes": "https://github.com/XENNTEC-UG/ips4-xunicoreconnector/releases"
 }
