@@ -1,7 +1,7 @@
 {
-    "version": "1.2.5",
-    "longversion": 20005,
-    "released": 1772035222,
+    "version": "1.2.6",
+    "longversion": 20006,
+    "released": 1772137415,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xotpemaillogin/releases",
-    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xotpemaillogin/releases/tag/v1.2.5"
+    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xotpemaillogin/releases"
 }
