@@ -1,7 +1,7 @@
 {
-    "version": "1.2.5",
-    "longversion": 10205,
-    "released": 1772227158,
+    "version": "1.2.6",
+    "longversion": 10206,
+    "released": 1772227475,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xstoreredirect/releases",
-    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xstoreredirect/releases/tag/v1.2.5"
+    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xstoreredirect/releases"
 }
