@@ -1,7 +1,7 @@
 {
-    "version": "1.1.20",
-    "longversion": 10030,
-    "released": 1772404447,
+    "version": "1.1.21",
+    "longversion": 10031,
+    "released": 1772404449,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xstripecheckout/releases",
-    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xstripecheckout/releases/tag/v1.1.20"
+    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xstripecheckout/releases/tag/v1.1.21"
 }
