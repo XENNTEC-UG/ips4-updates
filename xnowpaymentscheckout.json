@@ -1,7 +1,7 @@
 {
-    "version": "1.1.1",
-    "longversion": 10101,
-    "released": 1772574471,
+    "version": "1.2.0",
+    "longversion": 10200,
+    "released": 1772574739,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xnowpaymentscheckout/releases",
     "releasenotes": "https://github.com/XENNTEC-UG/ips4-xnowpaymentscheckout/releases"
 }
