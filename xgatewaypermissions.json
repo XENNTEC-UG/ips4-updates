@@ -1,7 +1,7 @@
 {
-    "version": "1.1.0",
-    "longversion": 10100,
-    "released": 1772913964,
+    "version": "1.2.0",
+    "longversion": 10200,
+    "released": 1772917362,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xgatewaypermissions/releases",
-    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xgatewaypermissions/releases/tag/v1.1.0"
+    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xgatewaypermissions/releases/tag/v1.2.0"
 }
