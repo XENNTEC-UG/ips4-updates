@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
-    "longversion": 10001,
-    "released": 1772298641,
+    "version": "1.1.0",
+    "longversion": 10100,
+    "released": 1773056155,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xbulkdevtools/releases",
-    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xbulkdevtools/releases/tag/v1.0.1"
+    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xbulkdevtools/releases"
 }
