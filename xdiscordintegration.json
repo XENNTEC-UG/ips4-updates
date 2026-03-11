@@ -1,7 +1,7 @@
 {
-    "version": "2.35.10",
-    "longversion": 23510,
-    "released": 1773237529,
+    "version": "2.35.12",
+    "longversion": 23512,
+    "released": 1773239334,
     "updateurl": "https://github.com/XENNTEC-UG/ips4-xdiscordintegration/releases",
-    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xdiscordintegration/releases/tag/v2.35.11"
+    "releasenotes": "https://github.com/XENNTEC-UG/ips4-xdiscordintegration/releases"
 }
