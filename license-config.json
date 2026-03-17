@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "endpoints": [
+    "https://license.xenntec.de/api/validate"
+  ],
+  "grace_days": 7,
+  "expiry_warning_days": 7,
+  "cache_hours": 168
+}
