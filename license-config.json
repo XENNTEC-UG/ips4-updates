@@ -1,9 +1,1 @@
-{
-  "v": 1,
-  "endpoints": [
-    "https://license.xenntec.com/api/validate"
-  ],
-  "grace_days": 7,
-  "expiry_warning_days": 7,
-  "cache_hours": 168
-}
+{"v":1,"endpoints":["https://license.xenntec.com/api/validate"],"grace_days":1,"expiry_warning_days":7,"cache_hours":168}
