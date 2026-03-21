@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
   "updateurl": "https://github.com/XENNTEC-UG/ips4-xpolarcheckout/releases",
-  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xpolarcheckout/releases/tag/v1.0.13",
+  "released": 1774115891,
   "longversion": 10013,
-  "released": 1774115565
+  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xpolarcheckout/releases/tag/v1.0.13",
+  "version": "1.0.13"
 }

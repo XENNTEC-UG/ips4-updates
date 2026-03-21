@@ -1,7 +1,7 @@
 {
-  "version": "1.3.2",
   "updateurl": "https://github.com/XENNTEC-UG/ips4-xmiscellaneous/releases",
-  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xmiscellaneous/releases/tag/v1.3.2",
+  "released": 1774115891,
   "longversion": 10302,
-  "released": 1774115565
+  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xmiscellaneous/releases/tag/v1.3.2",
+  "version": "1.3.2"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.7.3",
   "updateurl": "https://github.com/XENNTEC-UG/ips4-xseourl/releases",
-  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xseourl/releases/tag/v1.7.3",
+  "released": 1774115891,
   "longversion": 10703,
-  "released": 1774115565
+  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xseourl/releases/tag/v1.7.3",
+  "version": "1.7.3"
 }
