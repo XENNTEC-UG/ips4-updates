@@ -1,7 +1,7 @@
 {
-  "released": 1774104713,
   "updateurl": "https://github.com/XENNTEC-UG/ips4-xpaynowcheckout/releases",
+  "version": "1.0.18",
+  "released": 1774115108,
   "releasenotes": "https://github.com/XENNTEC-UG/ips4-xpaynowcheckout/releases/tag/v1.0.18",
-  "longversion": 10018,
-  "version": "1.0.18"
+  "longversion": 10018
 }
