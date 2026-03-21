@@ -1,7 +1,7 @@
 {
-  "updateurl": "https://github.com/XENNTEC-UG/ips4-xdashboard/releases",
   "version": "1.2.8",
-  "released": 1774115108,
+  "updateurl": "https://github.com/XENNTEC-UG/ips4-xdashboard/releases",
   "releasenotes": "https://github.com/XENNTEC-UG/ips4-xdashboard/releases/tag/v1.2.8",
-  "longversion": 10038
+  "longversion": 10038,
+  "released": 1774115565
 }
