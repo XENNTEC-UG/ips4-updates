@@ -1,7 +1,7 @@
 {
-  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xlicense/releases/tag/v1.5.0",
-  "released": 1774116732,
-  "longversion": 10500,
+  "updateurl": "https://github.com/XENNTEC-UG/ips4-xlicense/releases",
   "version": "1.5.0",
-  "updateurl": "https://github.com/XENNTEC-UG/ips4-xlicense/releases"
+  "released": 1774117188,
+  "longversion": 10500,
+  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xlicense/releases/tag/v1.5.0"
 }
